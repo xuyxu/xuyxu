@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Currently, I am a senior software engineer at [Alibaba Group](https://www.alibabagroup.com/en-US). My job focuses on a model serving system that supports the recommendation, search, and AIGC service in mobile apps used by billions people.
+
+Before joining Alibaba, I was a software engineer at [Huawei Cloud](https://www.huaweicloud.com/), one of the largest cloud service providers in China and Southeast Asia. During this period, I worked on a cloud native software for data analysis and federated learning. My work is about building a Spark-like distributed execution framework. Upon which, we further implement distributed machine learning algorithms. A lot of my efforts were also devoted to performance optimization of models using parallel computing, heterogeneous computing, and distributed computing.
+
+I got my M.Sc degree from the Learning And Mining from DatA ([LAMDA](https://www.lamda.nju.edu.cn/MainPage.ashx)) group in [Nanjing University](https://www.nju.edu.cn/en/), supervised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm) and Prof. [Yuan Jiang](http://www.lamda.nju.edu.cn/jiangy/). My research interests included ensemble learning and its applications in areas like anomaly detection and federated learning. I also developed an efficient tree ensemble library [Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest), which could outperform GBDT and random forest in many scenarios.
+
 <!--
 **xuyxu/xuyxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
